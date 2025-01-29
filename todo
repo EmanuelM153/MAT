@@ -1,0 +1,10 @@
+verify size when creating /
+name not in Matrix but in Mnode /
+implement parser
+          prohibit special names /
+          design the language to be used /
+implement error checker /
+implement Strassens algorithm
+tests
+conform to all the files of the GCS
+unsigned integers
